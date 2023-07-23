@@ -1,5 +1,5 @@
 # ignore a single file
-new1.txt
+newx.txt
 
 # ignore a directory
 bin/
